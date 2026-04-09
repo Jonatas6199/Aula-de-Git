@@ -1,3 +1,7 @@
+olá, acabei de ser adicionado no sistema
+
+Opa, agora eu tenho ainda mais conteúdo
+
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠉⠉⠛⠛⠛⠿⢿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠹⣿⣿⣿
 ⣿⣿⣿⣿⣿⠻⠟⣻⣿⣟⠛⣿⣿⣿⠋⠄⠄⢀⣤⣤⣴⣶⣶⣤⣀⠄⠄⠘⢻⣿
@@ -12,3 +16,32 @@
 ⣿⠄⢸⣿⡏⠄⢹⠄⢸⠇⢠⡇⠄⡀⠈⢻⠄⢀⣀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⠄⢸⣿⡇⠄⢸⡇⠈⠄⢸⡇⠄⠁⢀⣾⠄⢀⣀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣀⣈⣁⣇⣀⣼⣿⣀⣀⣿⣇⣀⣇⣀⣹⣀⣀⣉⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+
+Teste JONATAS
+
+Novo código adicionado durante o merge
+
+Margaret Hamilton (nascida em 1936) é uma cientista da computação americana pioneira que liderou a equipe do MIT responsável pelo software de bordo da missão Apollo 11, essencial para o pouso na Lua em 1969. Ela cunhou o termo "engenharia de software" e desenvolveu sistemas tolerantes a falhas que evitaram o aborto do pouso da Apollo 11.
+Pontos-chave sobre Margaret Hamilton:
+Líder no Projeto Apollo: Como diretora da Divisão de Engenharia de Software no Laboratório de Instrumentação do MIT, ela liderou o desenvolvimento dos programas de voo que guiaram os astronautas à Lua.
+O "Salvamento" da Apollo 11: Quando o computador do módulo lunar ficou sobrecarregado por dados falsos, o sistema de software robusto de Hamilton, programado para priorizar tarefas, evitou uma catástrofe e permitiu o pouso seguro.
+Pioneira na Engenharia de Software: Ela popularizou o termo "engenharia de software" para dar legitimidade à disciplina, tratando o desenvolvimento de software com o mesmo rigor que o hardware.
+Legado e Reconhecimento: Ela fundou a Hamilton Technologies em 1986 e, em 2016, recebeu a Medalha Presidencial da Liberdade, a maior honraria civil dos EUA, do presidente Barack Obama. 
+Hamilton foi fundamental para transformar o software em uma disciplina técnica crítica, tornando-se um ícone para mulheres na tecnologia e engenharia. 
+
+Resumão diário do JN: Israel ataca o Líbano, e Irã volta a fechar Estreito de Ormuz; no primeiro dia de julgamento, Zanin vota pelas eleições diretas para governo do RJ, e Fux diverge
+
+O presidente dos Estados Unidos, Donald Trump ,descreveu nesta quarta-feira (8) os contínuos ataques israelenses ao Líbano como um "conflito separado" com o grupo radical Hezbollah que "não estava incluído" no acordo de cessar-fogo de duas semanas firmado com o Irã.
+
+"Sim, eles não estavam incluídos no acordo", disse Trump ao programa PBS News Hour em um telefonema esta manhã. "Por causa do Hezbollah. Eles não estavam incluídos no acordo. Isso também será resolvido. Está tudo bem."
+Um alto funcionário da Casa Branca disse à CNN na terça-feira (7) que Israel concordou em suspender sua campanha de bombardeios enquanto as negociações continuam, mas Trump pareceu aceitar que Israel continuaria atacando o Líbano nesse período.
+Centenas de pessoas morreram ou ficaram feridas após bombardeios israelenses no Líbano nesta quarta-feira (8), segundo o ministro da Saúde, Rakan Nassereddine.
+
+Os ataques atingiram diferentes áreas de Beirute, incluindo uma região próxima ao calçadão à beira-mar. Imagens mostram prédios danificados e fumaça intensa, enquanto ambulâncias circulam continuamente pela cidade.
+
+De acordo com o Ministério da Saúde libanês, mais de 1.500 pessoas já morreram e cerca de 4.800 ficaram feridas desde o início do conflito, números divulgados antes da ofensiva mais recente.
+
+O Exército de Israel classificou a ação como a maior operação coordenada no país até agora. Segundo os militares, mais de 100 alvos ligados ao Hezbollah foram atingidos em Beirute, no Vale do Bekaa e no sul do território.
+Em comunicado, o ministro da Defesa, Israel Katz, afirmou que centenas de integrantes do grupo apoiado pelo Irã foram atingidos. Ele descreveu a ofensiva como o maior golpe contra a organização desde setembro de 2024, quando uma ação israelense provocou a explosão de milhares de dispositivos usados por seus membros.
+
+
